@@ -90,7 +90,7 @@ Collaborating on advocacy efforts to influence policies that support sustainable
 ## Contact Us
 If you have any questions, suggestions, or would like to collaborate, please reach out to us at:
 
-Email: [Contact Support](mailto:contact.reviveorraze@gmail.com)
+Email: [Contact Support]<contact.reviveorraze@gmail.com>
 Website: [Your project's website URL, if available] *TODO*
 Acknowledgments
 We would like to acknowledge and thank **YOU** for your time.
