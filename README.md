@@ -66,7 +66,7 @@ Billions of people are counting on you...
 
 10. **Feedback and Ideas:** Encouraging individuals to provide feedback, suggestions, or innovative ideas that can contribute to the advancement of your mission and goals.
 
-#### Collaborating:
+### Collaborating:
 1. **Unpaid Internships:**
 - **Learning and Development:** Interns can gain valuable hands-on experience in research, project management, and advocacy related to sustainable water management and renewable energy.
 - **Skill Development:** Opportunities to develop skills in areas such as environmental science, engineering, policy analysis, communications, and community engagement.
