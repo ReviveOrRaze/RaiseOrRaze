@@ -1,7 +1,4 @@
-# Revive Or Raze README
-# ---------------------
-# -------- ROR --------
-# ---------------------
+# Raise Or Raze
 
 ## Overview
 
