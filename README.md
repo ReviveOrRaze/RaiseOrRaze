@@ -1,23 +1,26 @@
-# ReviveOrRaze README
+# Revive Or Raze README
+# ---------------------
+# -------- ROR --------
+# ---------------------
 
 ## Overview
 
-Welcome to Revive Or Raze, where we are dedicated to solving climate change and the energy crisis. Our mission is to harness the power of water to mitigate climate change and address the global energy crisis sustainably.
+Welcome to Revive Or Raze, where we are dedicated to solving climate change and the energy crisis. Our mission is to harness the power of water to mitigate climate change and address the global energy crisis.
 
 ## Goals
 At Revive Or Raze, our primary objectives are:
 
-1. **Goal 1.** Recognize the importance of water in our biosphere while still acknowledging the impact of carbon emissions.
-2. **Goal 2.** To promote the adoption of water-based technologies that improve energy efficiency, reduce dependence on fossil fuels, and contribute to global energy security.
-3. **Goal 3.** To foster harmony and interconnectedness among communities worldwide by advocating for sustainable water management practices and equitable access to renewable energy sources.
+1. Recognize the importance of water in our biosphere while still acknowledging the impact of carbon emissions.
+2. To promote the adoption of water-based technologies that improve energy efficiency, reduce dependence on fossil fuels, and contribute to global energy security.
+3. To foster harmony and interconnectedness among communities worldwide by advocating for sustainable water management practices and equitable access to renewable energy sources.
 These goals align with our vision of leveraging water-based innovations to mitigate climate change, address the energy crisis sustainably, and promote global harmony through equitable access to renewable energy and sustainable water management practices.
 
 ## Objectives
 To accomplish our goals, we are focusing on the following key objectives:
 
-1. Objective 1. To develop and deploy innovative water-based technologies that significantly reduce greenhouse gas emissions and enhance energy efficiency.
-2. Objective 2. To promote widespread adoption of sustainable water management practices and renewable energy solutions globally, fostering resilience and reducing reliance on fossil fuels.
-3. Objective 3. To cultivate harmony between humanity and the Earth, advocating for practices that alleviate the burden on both, nurturing a balanced and sustainable existence.
+1. To develop and deploy innovative water-based technologies that significantly reduce greenhouse gas emissions and enhance energy efficiency.
+2. To promote widespread adoption of sustainable water management practices and renewable energy solutions globally, fostering resilience and reducing reliance on fossil fuels.
+3. To cultivate harmony between humanity and the Earth, advocating for practices that alleviate the burden on both, nurturing a balanced and sustainable existence.
 
 ### Environmental Stewardship:
 We believe in the responsible management of natural resources, particularly water, to preserve and protect the Earth's ecosystems for future generations.
@@ -41,9 +44,9 @@ We believe in a spiritual and holistic approach to environmental stewardship, re
 Our mission is to urgently harness the transformative power of water to heal the Earth, combat climate change, and foster global harmony, addressing the critical need for sustainable solutions in a rapidly changing world. 
 
 ## How to Get Involved
-
-#### Contributing:
-1. **Financial Support:** We are accepting donations or seeking investors who share our vision and can provide the financial resources needed to fund research, development, and implementation of water-based solutions.
+Billions of people are counting on you...
+### Contributing:
+1. **Financial Support:** We are accepting donations or seeking investors who share our vision and can provide the financial resources needed to fund research, development, and implementation of water-based solutions. Please email us for more information.
 
 2. **Expertise and Skills:** We are looking for professionals in fields such as environmental science, engineering, renewable energy, and policy-making to contribute their expertise through advisory roles, partnerships, or direct involvement in projects.
 
@@ -64,13 +67,12 @@ Our mission is to urgently harness the transformative power of water to heal the
 10. **Feedback and Ideas:** Encouraging individuals to provide feedback, suggestions, or innovative ideas that can contribute to the advancement of your mission and goals.
 
 #### Collaborating:
-1. Unpaid Internships:
-- Learning and Development: Interns can gain valuable hands-on experience in research, project management, and advocacy related to sustainable water management and renewable energy.
-- Skill Development: Opportunities to develop skills in areas such as environmental science, engineering, policy analysis, communications, and community engagement.
-- Contribution to Projects: Interns may assist with specific projects or initiatives aimed at implementing water-based solutions for climate resilience and energy sustainability.
-2. Partnerships:
-- **Collaborative Projects:**
-- Partnering with organizations, academic institutions, and businesses to jointly develop and implement innovative solutions that leverage water resources for renewable energy generation or climate change mitigation.
+1. **Unpaid Internships:**
+- **Learning and Development:** Interns can gain valuable hands-on experience in research, project management, and advocacy related to sustainable water management and renewable energy.
+- **Skill Development:** Opportunities to develop skills in areas such as environmental science, engineering, policy analysis, communications, and community engagement.
+- **Contribution to Projects:** Interns may assist with specific projects or initiatives aimed at implementing water-based solutions for climate resilience and energy sustainability.
+2. **Partnerships:**
+- **Collaborative Projects:** Partnering with organizations, academic institutions, and businesses to jointly develop and implement innovative solutions that leverage water resources for renewable energy generation or climate change mitigation.
 - **Resource Sharing:**
 Sharing expertise, resources, and infrastructure to accelerate research, development, and deployment of technologies and practices aligned with our mission.
 - **Policy and Advocacy:**
