@@ -1,3 +1,4 @@
+![ReviveOrRaze](images/reviveorrazelogo.PNG)
 # Revive Or Raze
 
 ## Overview
